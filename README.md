@@ -2,7 +2,7 @@
 本demo仅供学习使用
 
 
-1.实现定位功能，需要在plist文件配置先关参数（参考locationGPS.h）。
+1.实现定位功能，需要在plist文件配置相关参数（参考locationGPS.h）。
 
 
 
