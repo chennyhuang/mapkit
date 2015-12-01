@@ -438,6 +438,7 @@
 				EE6DD9671B0B09070029B102 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE6DD9681B0B09070029B102 /* Build configuration list for PBXNativeTarget "mapkitTests" */ = {
 			isa = XCConfigurationList;
@@ -446,6 +447,7 @@
 				EE6DD96A1B0B09070029B102 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
